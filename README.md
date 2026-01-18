@@ -1,6 +1,6 @@
 # Pakasir SDK PHP
 
-PHP SDK for [Pakasir](https://pakasir.com) Payment Gateway. Easily integrate QRIS, Virtual Account, and PayPal payments into your PHP applications.
+PHP SDK for [Pakasir](https://pakasir.com) Payment Link. Easily integrate QRIS, Virtual Account, and PayPal payments into your PHP applications.
 
 ## Installation
 

@@ -9,7 +9,7 @@ use GuzzleHttp\Exception\GuzzleException;
 use ItsAzni\Pakasir\Exceptions\PakasirException;
 
 /**
- * Pakasir SDK - PHP SDK for Pakasir Payment Gateway
+ * Pakasir SDK - PHP SDK for Pakasir Payment Link
  *
  * @author ItsAzni
  * @link https://pakasir.com

@@ -1,6 +1,6 @@
 {
     "name": "itsazni/pakasir-sdk-php",
-    "description": "PHP SDK for Pakasir Payment Gateway",
+    "description": "PHP SDK for Pakasir Payment Link",
     "type": "library",
     "license": "MIT",
     "version": "1.0.0",
@@ -22,7 +22,7 @@
     "keywords": [
         "pakasir",
         "payment",
-        "gateway",
+        "paymentlink",
         "qris",
         "virtual-account",
         "paypal",
